@@ -2,7 +2,7 @@
 public class testConditions {
 
 	public static void main(String[] args) {
-		int i = 50;
+		//int i = 50;
 //		if(i < 0) {
 //			System.out.println("Le nombre est négatif");
 //		}
